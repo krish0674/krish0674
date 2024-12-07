@@ -14,9 +14,9 @@ Hi there! I'm passionate about **Machine Learning (ML)**, **Deep Learning (DL)**
 
 ## 🚀 Featured Projects
 Here are some projects I’ve been working on:
-- [**AgriLLM**](https://github.com/username/AgriLLM): A transformer-based system to answer farmer queries (accepted at KDD 2024! 🎉).
+- [**AgriLLM**]: A transformer-based system to answer farmer queries.
 - **Image Segmentation with U-Net:** Flood area detection and medical image analysis.
-- **YOLOv8 Object Detection:** Detecting anomalies in space imagery for Mars and Moon exploration.
+- **YOLOv8 Object Detection:** Using knowledge distiallation and architecture search. 
 - **Chatbot Development:** Building conversational AI using RNNs and Transformer models.
 - **Style Transfer with Laplacian Pyramids:** Preserving structural details in artistic transformations.
 
